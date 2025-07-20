@@ -1,0 +1,14 @@
+{
+    "C_Cpp.default.compilerPath": "C:/msys64/ucrt64/bin/gcc.exe",
+    "files.associations": {
+        "array": "c",
+        "string": "c",
+        "string_view": "c",
+        "cstdlib": "c",
+        "concepts": "c",
+        "memory_resource": "c",
+        "optional": "c",
+        "new": "c",
+        "functional": "c"
+    }
+}
